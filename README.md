@@ -1,16 +1,15 @@
-### Hi there 👋
+### NAMASTE 👋
 
-<!--
-**manali16/manali16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! 👨‍💻 I'm an experienced frontend developer with a passion for creating usable, useful, and well-constructed websites and applications. 🌐💼 I have a solid background as a Software Analyst in the IT and services industry. 
 
-Here are some ideas to get you started:
+🔧 My skills include:
+- 💻 Responsive Web Design
+- ⚛️ React-Js
+- 📜 JavaScript
+- 🌐 HTML
+- 🎨 CSS
+- 🅱️ Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I hold a Bachelor of Engineering degree with a focus on Computer Software. 🎓
+
+🚀 Let's collaborate and create impressive digital experiences together! 🌟
